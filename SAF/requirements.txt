@@ -1,0 +1,13 @@
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.14.0
+pandas>=2.0.0
+accelerate>=0.20.0
+
+# SAE analysis - now available on PyPI
+sae-lens>=4.0.0
+
+# For sycophancy eval (optional)
+langchain>=0.1.0
+langchain_community>=0.0.20
+openai>=1.0.0
